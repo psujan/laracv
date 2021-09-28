@@ -65,6 +65,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
    
     Test User Email: johndoe@app.com
-    Test User Password: john-cvx
+    Test User Password: john-cv
     Please Make Sure To Run: php artisan db:seed
 
