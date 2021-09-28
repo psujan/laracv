@@ -1,0 +1,62 @@
+ 
+ 
+ body{
+    overflow-x: hidden;
+ }
+ 
+ a{
+     text-decoration: none;
+ }
+
+ p{
+     margin:0;
+ }
+ 
+ .mw-80{
+     max-width: 80%;
+     margin: 0 auto;
+ }
+
+ .intro{
+     color:#fff;
+ }
+
+ .profile-row{
+     padding:15px;
+ }
+ 
+ .fb-40{
+     flex-basis:40%;
+ }
+
+ .menu{
+     margin-right:25px;
+ }
+
+ .menu a{
+    color:#fff;
+    padding: 0 10px;
+ }
+
+ .bg-wh{
+     background-color: #fff;
+ }
+
+ .bg-gr{
+     background-color: #cfcccc;
+ }
+
+ .cv-80{
+     max-width:80%;
+ }
+
+
+ .fs-20{
+     font-size: 20px;
+ }
+ .bold-dots{
+    background-color: black;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;display:inline-block;
+ }
