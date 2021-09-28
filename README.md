@@ -64,7 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
    
-    <p>Test User Email: johndoe@app.com</p>
-    <p>Test User Password: john-cv</p>
-    <p>Please Make Sure To Run: <code>php artisan db:seed</code></p>
+    Test User Email: johndoe@app.com
+    Test User Password: john-cvx
+    Please Make Sure To Run: php artisan db:seed
 
